@@ -27,6 +27,7 @@ public class checkPalindrome {
 
     }
 
+    // check if the string s is a palindrome
     public static boolean isPalindrome(String s) {
         int n = s.length();
         int l = 0, r = n - 1;

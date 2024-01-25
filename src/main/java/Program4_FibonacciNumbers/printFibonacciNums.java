@@ -15,6 +15,7 @@ public class printFibonacciNums {
         }
     }
 
+    // calculate 100 Fib with dynamic programming
     public static void getFibProcess(int n) {
         dp = new BigInteger[n + 1];
         dp[0] = dp[1] = BigInteger.ONE;
