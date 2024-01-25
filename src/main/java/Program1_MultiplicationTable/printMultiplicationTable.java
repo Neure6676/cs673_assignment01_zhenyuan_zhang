@@ -1,6 +1,6 @@
 package Program1_MultiplicationTable;
 
-public class getMultiplicationTable {
+public class printMultiplicationTable {
 
     public static void print() {
         for (int i = 1; i <= 12; i++) {
